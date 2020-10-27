@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\SampleAPI-Azure\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dell\source\repos\SampleAPI-Azure\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dell\source\repos\SampleAPI-Azure\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Dell\source\repos\SampleAPI-Azure\obj\Debug\netcoreapp3.1\SampleAPI-Azure.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\SampleAPI-Azure\obj\Debug\netcoreapp3.1\SampleAPI-Azure.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\SampleAPI-Azure\obj\Debug\netcoreapp3.1\SampleAPI-Azure.AssemblyInfo.cs
+C:\Users\Dell\source\repos\SampleAPI-Azure\obj\Debug\netcoreapp3.1\SampleAPI-Azure.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\source\repos\SampleAPI-Azure\obj\Debug\netcoreapp3.1\staticwebassets\SampleAPI-Azure.StaticWebAssets.Manifest.cache
+C:\Users\Dell\source\repos\SampleAPI-Azure\obj\Debug\netcoreapp3.1\staticwebassets\SampleAPI-Azure.StaticWebAssets.xml
